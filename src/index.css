@@ -1,0 +1,26 @@
+body {
+  background-color: #ffffff;
+}
+
+.contact-list {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.contact-card {
+  border-radius: 0;
+  border-left: none;
+  border-right: none;
+}
+
+.contact-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+form {
+  max-width: 900px;
+  margin: 0 auto;
+}
